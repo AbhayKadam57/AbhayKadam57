@@ -3,7 +3,7 @@
 - 🌱 I’m currently loving Full stack web development
 - 💞️ I’m looking to collaborate on web development projects
 - 💞️ I also in Data analysis field and have some corporate experience 
-- 📫 How to reach me Kadamabhay40@gmail.com
+- 📫 How to reach me kadamabhay40@gmail.com
 - Languages and Tool I use :
 
     <div style="disply:flex gap:10px">
