@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on web development projects
 - 💞️ I also in Data analysis field and have some corporate experience 
 - 📫 How to reach me kadamabhay40@gmail.com
+- Netlify profile -
+- <a href="https://app.netlify.com/user/settings#profile"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"><a/>
 - Languages and Tool I use :
 
     <div style="disply:flex gap:10px">
