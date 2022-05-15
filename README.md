@@ -12,6 +12,12 @@
     <img src="https://user-images.githubusercontent.com/93931081/159693044-f00b3b17-9db5-41e4-a294-a480f391dcf9.png" width="50" height="50">
     <img src="https://user-images.githubusercontent.com/93931081/159693049-b89a2d3e-bd98-40bf-887e-d36672935d48.png" width="50" height="50">
     <img src="https://user-images.githubusercontent.com/93931081/159693040-9ad806a1-0262-4161-979a-bda647735b9f.png" width="50" height="50">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="90" height="50">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="90" height="50">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="90" height="50">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="90" height="50">
+     <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" width="90" height="50">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="90" height="50">
      </div>
 <!---
 AbhayKadam57/AbhayKadam57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
