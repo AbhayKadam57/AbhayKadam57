@@ -25,8 +25,11 @@
     
     [![GitHub Streak](https://streak-stats.demolab.com?user=Abhaykadam57&theme=dark)](https://git.io/streak-stats)
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykadam57)](https://github.com/anuraghazra/github-readme-stats)
-
+   
+    
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhaykadam57&show_icons=true&theme=dark)
+    
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykadam57)](https://github.com/anuraghazra/github-readme-stats)
 
     
     
