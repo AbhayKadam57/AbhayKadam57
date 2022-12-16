@@ -21,6 +21,12 @@
      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" width="90" height="50">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="90" height="50">
      </div>
+    
+    
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Abhaykadam57&theme=dark)](https://git.io/streak-stats)
+    
+    
+    
 <!---
 AbhayKadam57/AbhayKadam57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
