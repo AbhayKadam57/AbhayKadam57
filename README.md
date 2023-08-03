@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=AbhayKadam57&color=brightgreen" alt="watching_count" />
+
 - 👋 Hi, I’m Abhay Kadam
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently loving Full stack web development
@@ -21,6 +23,9 @@
      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" width="90" height="50">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="90" height="50">
      </div>
+     
+    
+     <img src="https://github-profile-trophy.vercel.app/?username=AbhayKadam57&theme=juicyfresh&no-bg=true" />
     
     
     [![GitHub Streak](https://streak-stats.demolab.com?user=Abhaykadam57&theme=dark)](https://git.io/streak-stats)
